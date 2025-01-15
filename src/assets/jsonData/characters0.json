@@ -1,0 +1,30 @@
+[
+    {"key": "saitama0", "name":"Saitama", "anime": "One Punch Man"},
+    {"key": "saitama1", "name":"Saitama", "anime": "One Punch Man"},
+    {"key": "saitama2", "name":"Saitama", "anime": "One Punch Man"},
+    {"key": "genos0", "name":"Genos", "anime": "One Punch Man"},
+    {"key": "opm0", "name":"Season 1", "anime": "One Punch Man"},
+    
+    {"key": "pain0", "name":"Pain", "anime": "Naruto"},
+
+    {"key": "bleach1", "name":"Season 1", "anime": "Bleach"},
+    {"key": "bleach2", "name":"Season 1", "anime": "Bleach"},
+    {"key": "bleach3", "name":"Season 1", "anime": "Bleach"},
+
+    {"key": "goku0", "name":"Goku", "anime": "Dragon Ball Z"},
+    {"key": "dragonball0", "name":"Cell Saga", "anime": "Dragon Ball Z"},
+    {"key": "dragonball2", "name":"Dragon Ball GT", "anime": "Dragon Ball Z"},
+    {"key": "dragonball3", "name":"Dragon Ball", "anime": "Dragon Ball Z"},
+
+    {"key": "beyblade0", "name":"Metal Fusion", "anime": "Beyblade"},
+
+    {"key": "eren0", "name":"Eren Yaegar", "anime": "Attack on Titan"},
+
+    {"key": "tanjirou0", "name":"Kamado Tanjirou", "anime": "Demon Slayer"},
+    {"key": "nezuko0", "name":"Kamado Nezuko", "anime": "Demon Slayer"},
+    {"key": "shinobu0", "name":"Shinobu Kocho", "anime": "Demon Slayer"},
+    {"key": "shinobu1", "name":"Shinobu Kocho", "anime": "Demon Slayer"},
+    {"key": "rengoku0", "name":"Rengoku Kyojuro", "anime": "Demon Slayer"},
+    {"key": "rengoku1", "name":"Rengoku Kyojuro", "anime": "Demon Slayer"},
+    {"key": "mitsuri0", "name":"Season 3", "anime": "Demon Slayer"}
+]
