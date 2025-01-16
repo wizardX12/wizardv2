@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 
-import hearticon from './assets/icons/heart.png';
+import hearticon from './assets/icons/heart1.png';
 import title1 from './assets/animeTitle/1.png';
 import title2 from './assets/animeTitle/2.png';
 import title3 from './assets/animeTitle/3.png';
